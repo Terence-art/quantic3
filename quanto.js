@@ -5,7 +5,7 @@ console.log(300-d);
 var h=Math.ceil(Math.random()*100); d=d-h;
 var i=a-f; d=d-i;
 console.log(300-d);
-var l=Math.ceil(Math.random()*100); d=d-h;
+var l=Math.ceil(Math.random()*100); d=d-l;
 console.log(300-d);
 var m=Math.ceil(Math.random()*100); d=d-m;
 var z=300-d;
