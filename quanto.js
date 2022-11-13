@@ -9,5 +9,5 @@ var l=Math.ceil(Math.random()*100); d=d-l;
 var m=c-l; d=d-m;
 console.log(300-d);
 var n=Math.ceil(Math.random()*100); d=d-n;
-var z=300-d;
+var z=e-d;
 console.log("control check " + z);
