@@ -7,3 +7,6 @@ var i=a-f; d=d-i;
 console.log(300-d);
 var l=Math.ceil(Math.random()*100); d=d-h;
 console.log(300-d);
+var m=Math.ceil(Math.random()*100); d=d-m;
+var z=300-d;
+console.log("control check " + z);
